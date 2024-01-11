@@ -23,3 +23,4 @@ Ryamizard
 ## 6. Tampilan Data Base
 [img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%202024-01-11%20122622.png)
 [img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%202024-01-11%20122643.png)
+[img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%202024-01-11%20122709.png)
