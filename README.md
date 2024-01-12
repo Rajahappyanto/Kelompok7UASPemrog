@@ -38,6 +38,6 @@ https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Laporan%20we%20Sistem%
 ![img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/5.png)
 
 ## 6. Tampilan Data Base
-![img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%202024-01-11%20122622.png)
-![img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%202024-01-11%20122643.png)
-![img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%202024-01-11%20122709.png)
+![img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%20(127).png)
+![img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%20(128).png)
+![img](https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Screenshot%20(129).png)
