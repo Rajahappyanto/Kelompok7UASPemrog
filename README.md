@@ -4,16 +4,16 @@ Sistem Pengelolaan data KasRt
 
 ```
 nama anggota kelompok:
-Raja Happyanto
-Happyansyah
-Ryamizard
+Raja Happyanto (312210
+Mohammad Hapiyansyah (312210243
+Ryamizard R.S (312210
 ```
 
 # Demo video Web
 https://youtu.be/4Rrekr7LG_w
+
 # Laporan
 https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Laporan%20we%20Sistem%20kasrt.pdf
-
 
 # Fitu Fitur Pada Sistem pengelolaan KasRT
 
