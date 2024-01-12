@@ -4,8 +4,8 @@ Sistem Pengelolaan data KasRt
 
 ```
 nama anggota kelompok:
-Raja Happyanto (312210
-Mohammad Hapiyansyah (312210243
+Raja Happyanto (312210235)
+Mohammad Hapiyansyah (312210243)
 Ryamizard R.S (312210
 ```
 
