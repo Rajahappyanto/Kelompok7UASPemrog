@@ -4,9 +4,9 @@ Sistem Pengelolaan data KasRt
 
 ```
 nama anggota kelompok:
-Raja Happyanto (312210235)(github/luffy-arc)
-Mohammad Hapiyansyah (312210243)(github/Hapiyansyah)
-Muhammad Ryamizard R.S (312210185)(github/Ryamizard)
+Raja Happyanto (312210235)
+Mohammad Hapiyansyah (312210243)
+Muhammad Ryamizard R.S (312210185)
 ```
 
 # Demo video Web
