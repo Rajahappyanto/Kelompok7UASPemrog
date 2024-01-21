@@ -19,8 +19,8 @@ https://github.com/luffy-arc/Kelompok7UASPemrog/blob/main/Laporan%20we%20Sistem%
 
 https://testingkasrt.000webhostapp.com/
 
-username: admin@gmail.com
-password: admin
+- username: admin@gmail.com
+- password: admin
 
 # Fitu Fitur Pada Sistem pengelolaan KasRT
 
